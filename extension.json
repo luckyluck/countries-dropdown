@@ -1,0 +1,6 @@
+{
+  "id": "countries-dropdown",
+  "name": "Countries Dropdown",
+  "srcdoc": "index.html",
+  "fieldTypes": ["Symbol", "Text"]
+}
